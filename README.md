@@ -25,7 +25,7 @@ of regulatory certification.
 
 ## Architecture
 
-![Nexabank Architecture].(/architecture/nexabank-reference-architecture.png)
+![Nexabank Architecture](/architecture/nexabank-reference-architecture.png)
 
 ## Architecture Goals
 
